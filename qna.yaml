@@ -53,5 +53,57 @@ seed_examples:
         answer: 
           Look at all of the motivators in the tool and ascribe the number of points to each that best
           describes your own. The total points should not exceed 25. 
+  - context: |
+      Reflecting on how you have allocated your points, are you surprised about what this is showing
+      about your career motivators or does this confirm your own insights? Would you wish to add
+      further career motivators that are not covered in the list above?
+      Shortly you’ll capture your top three career motivators in the table that follows and consider
+      what this means for you in practice, and why this motivator is important to you now. You’ll also
+      have the opportunity to think about how you could build on these top 3 motivators in your
+      current role to achieve greater alignment.
+      Something to consider: you can build more of your career motivators into your current role
+      through career crafting . This involves changing aspects of your work to match your motivations.
+      These can be small things that can make a big difference. There are three types of career crafting.
+    questions_and_answers:
+      - question: |
+          How does reflecting on your point allocation help you better understand your career motivators?
+        answer: |
+          Reflecting on how you allocated your points helps you to either confirm your existing insights about your career motivators or uncover surprises that may challenge your assumptions. By examining the distribution of points, you can see which motivators genuinely matter most to you at this point in your career, rather than relying solely on what you believed previously. This reflection deepens self-awareness and sets the stage for identifying how to incorporate these motivators into your current role.
+      - question: |
+          What are you expected to do after identifying your top three career motivators?
+        answer: |
+          After identifying your top three career motivators, you are expected to capture them in a table and consider what each motivator means for you in practice. You will reflect on why each motivator is important to you now and think about ways to build more of these motivators into your current role. This exercise aims to achieve greater alignment between your work and your personal drivers, helping you feel more fulfilled and engaged in your career.
+      - question: |
+          What is career crafting, and how does it relate to building more of your motivators into your current role?
+        answer: |
+          Career crafting refers to the process of changing aspects of your work to better align with your personal career motivators. It allows you to tailor your role in small but meaningful ways that can significantly enhance your satisfaction and performance. The context explains that there are three types of career crafting, although it does not name them. By engaging in career crafting, you can actively shape your day-to-day responsibilities to better match what drives you, thus making your current job more fulfilling without needing to change roles entirely.
+  - context: |
+      ## Power &amp; influence
+      You value being able to make decisions that have impact and enjoy taking on leadership roles or positions of authority. You willingly embrace additional responsibility to gain more influence. You're comfortable with making decisions that may not be popular but are necessary.
+
+      ## Creativity
+
+      You find joy in discovering innovative solutions to problems and feel energized when you can express creativity in your work. Careers that enable you to tap into your creativity are appealing, and you value the freedom to experiment and explore new ideas.
+    questions_and_answers:
+      - question: What does valuing power and influence suggest about the types of roles you might seek in your career?
+        answer: Valuing power and influence suggests that you are likely to seek out roles where you can make impactful decisions, take on leadership responsibilities, and hold positions of authority. You are motivated by the opportunity to shape outcomes and are willing to embrace additional responsibility to expand your influence. Even when decisions may be unpopular, your comfort with making tough choices indicates a natural fit for leadership or strategic decision-making positions.
+      - question: How might someone who values creativity approach problem-solving in their work?
+        answer: Someone who values creativity would approach problem-solving by seeking innovative and unconventional solutions rather than relying solely on traditional methods. They would feel energized by opportunities to experiment, explore new ideas, and push boundaries. Their problem-solving style would involve a high degree of originality, and they would likely be drawn to environments that encourage creative freedom and support exploration.
+      - question: In what ways could a career that combines power, influence, and creativity be particularly fulfilling for someone with these motivators?
+        answer: A career that combines power, influence, and creativity could be particularly fulfilling because it would allow the individual to make impactful decisions while also innovating and shaping new ideas. They would thrive in roles where leadership requires not only strategic authority but also the ability to foster creative thinking and drive change. For example, leading a team in a startup or spearheading innovation initiatives in a large organisation would satisfy both the desire for influence and the need for creative expression, aligning closely with their core motivators.
+  - context: |
+      ## COGNITIVE crafting
+      
+      involves how you see your work and connects with your core values; why your work, or the way you do your work, feels important to you. You might consider how you make a difference to colleagues, your organisation and to your family and friends. This helps to bring meaning to your work.
+
+      ## RELATIONAL crafting
+      relationships are often a big part of what drives our career motivations and help us effect change in positive ways. There may be ways you can strengthen your relationships to achieve greater work satisfaction, to gain new insights or receive feedback to help you develop.
+    questions_and_answers:
+      - question: What is cognitive crafting, and how does it influence how someone views their work?
+        answer: Cognitive crafting involves how an individual perceives their work and how it connects with their core values. It focuses on why the work, or the way the work is performed, feels meaningful. Through cognitive crafting, a person might reflect on the difference they make to colleagues, their organisation, and even to their family and friends. This perspective helps to bring a deeper sense of purpose and personal significance to their daily activities.
+      - question: How can strengthening relationships through relational crafting improve work satisfaction?
+        answer: Strengthening relationships through relational crafting can significantly enhance work satisfaction by deepening the sense of connection, trust, and collaboration with others. Building stronger relationships can lead to gaining new insights, receiving valuable feedback for development, and creating a more supportive and positive work environment. Because relationships often drive career motivation and enable positive change, focusing on relational crafting allows individuals to feel more engaged and fulfilled in their roles.
+      - question: Why might cognitive and relational crafting both be important for someone seeking greater alignment in their career?
+        answer: Cognitive and relational crafting are both important because they address different but complementary aspects of career satisfaction. Cognitive crafting helps individuals find personal meaning in their work by aligning tasks with their core values, while relational crafting strengthens the social connections that often drive motivation and development. Together, these forms of crafting allow someone to experience both a sense of purpose and strong interpersonal support, leading to greater overall alignment, engagement, and fulfillment in their career.
 
     
