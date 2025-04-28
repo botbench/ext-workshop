@@ -4,4 +4,33 @@ created_by: xsoldaat
 document_outline:
   This document is a career motivator tool, which allows a coachee to better understand what motivates them, 
   in the context of their career. Using points, the coachee can more easily determine their main drivers.
-  
+# 5 of these | 300 tokens
+seed_examples:
+  - context: |
+      Before making your ratings, read all of the career motivator descriptions, then add your 
+      points according to relative importance. You will be able to change your ratings if you 
+      change your mind. The points you assign should add up to a total of 25.
+      ## Work intensity
+      You are willing to put in long hours to get the job done. You thrive and perform at
+      your best in fast-paced and high-pressure work environments. You find juggling multiple 
+      projects and tasks simultaneously invigorating. Having a full workload and tight deadlines 
+      energizes you.
+    questions_and_answers:
+      - question: |
+          What are the motivators that this document covers?
+        answer: |
+          This document discusses the following motivators: work intensity, continuity, expertise, 
+          reward and recognition, enterprise and risk, variety, meaning and purpose, autonomy,
+          power and influence, relationships, work-life blend, creativity
+      - question: | 
+          What are some of the characteristics of the work intensity motivator?
+        answer: |
+          Someone who is motivated by work intensity likes to work long hours and thrives in 
+          fast-paced and high-pressure environments.
+      - question: |
+          How do I use the tool?
+        answer: 
+          Look at all of the motivators in the tool and ascribe the number of points to each that best
+          describes your own. The total points should not exceed 25. 
+
+    
