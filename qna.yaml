@@ -106,4 +106,8 @@ seed_examples:
       - question: Why might cognitive and relational crafting both be important for someone seeking greater alignment in their career?
         answer: Cognitive and relational crafting are both important because they address different but complementary aspects of career satisfaction. Cognitive crafting helps individuals find personal meaning in their work by aligning tasks with their core values, while relational crafting strengthens the social connections that often drive motivation and development. Together, these forms of crafting allow someone to experience both a sense of purpose and strong interpersonal support, leading to greater overall alignment, engagement, and fulfillment in their career.
 
-    
+document: 
+  repo: 'https://github.com/whomwah/rqrcode.git'
+  commit: ec9aede3b697e7c3511d93d62a755f34b4269c42
+  patterns:
+    - knowledge.md
